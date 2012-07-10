@@ -11,6 +11,6 @@ Script has support for custom base url, custom output file, parsing multiple pro
 
 TODO:
 
-refractor parsing into seperate library
-enable complex parsing of some cases where data is encoded into javascript
-implement parsing of difference between files on disk and online
+Refractor parsing into seperate library.  
+Enable complex parsing of some cases where data is encoded into javascript.   
+Implement parsing of difference between files on disk and online.   
